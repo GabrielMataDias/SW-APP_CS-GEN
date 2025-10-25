@@ -1,0 +1,12 @@
+# .classification.yml
+code_type: SW-APP_CS-GEN
+area: SW                   # Software
+type: APP                  # Aplicação / playground
+language: CS               # C#
+domain: GEN                # Genérico / sem domínio específico
+stack:
+  - dotnet
+  - csharp
+  - architecture
+author: Gabriel Dias
+license: MIT
